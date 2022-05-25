@@ -1,4 +1,4 @@
-# Flexbox Business Site -  ode Academy Project
+# Flexbox Business Site -  Code Academy Project
 
 ## Code Academy Project Design Systems
 
