@@ -102,6 +102,7 @@ p {
     padding: 10px;
     color: white;
     flex-basis: 280px;
+    background-color: hsla(0, 0%, 35%, 0.84);
 }
 
 .teammate img {
