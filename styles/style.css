@@ -44,7 +44,7 @@ p {
 .mission {
     display: flex;
     height: 300px;
-    background-image: url("images/AdobeStock_423118176_Preview.jpeg");
+    background-image: url('/images/AdobeStock_423118176_Preview.jpeg');
     /*background-image: url("https://content.codecademy.com/PRO/independent-practice-projects/flexbox-business-site/img/skyscrapers.jpg");*/
     padding-top: 35px;
 }
