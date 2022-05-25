@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
+    "workbench.iconTheme": "ayu",
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.settings.openDefaultKeybindings": true,
+    "workbench.settings.openDefaultSettings": true,
+    "ActiveFileInStatusBar.revealFile": true,
+    "auto-close-tag.insertSpaceBeforeSelfClosingTag": true,
+    "auto-close-tag.fullMode": true,
+    "DockerRun.DisableDockerrc": true
+}
