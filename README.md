@@ -1,6 +1,7 @@
 # Flexbox Business Site -  Code Academy Project
 
 ## Code Academy Project Design Systems
+Using the grid and flex properties.  Front end html and css only.
 
 ### This project and code has been modified to suit my own project purposes
 
