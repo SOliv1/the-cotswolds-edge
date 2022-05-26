@@ -51,7 +51,7 @@ p {
 
 .mission .content {
     margin: auto;
-    background-color: white;
+    background-color: hsla(0deg 0% 100% /);
     width: 100%;
 }
 
