@@ -51,9 +51,9 @@ p {
 
 .mission .content {
     margin: auto;
-    background-color: hsla(0deg 0% 100% /);
+    background-color: hsl(0deg 0% 35% / 47%);
+    color: #fff;
     width: 100%;
-    color: ffffff;
 }
 
 #portfolio {
