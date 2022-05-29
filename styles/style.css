@@ -52,10 +52,10 @@ p {
 
 .mission .content {
     margin: auto;
-   /* background-color: hsl(0deg 0% 35% / 47%); */
-    background-color: #fff;
-    color: #000; 
-   /* color: #fff;*/
+    background-color: hsl(0deg 0% 35% / 47%);
+     /* background-color: #fff; */
+     /*color: #000; */
+    color: #fff;
     width: 100%;
 }
 
