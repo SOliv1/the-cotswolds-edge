@@ -107,6 +107,7 @@ p {
     color: white;
     flex-basis: 280px;
     background-color: hsla(0, 0%, 35%, 0.84);
+    background-image:url("../images/crop2.jpeg");
 }
 
 .teammate img {
